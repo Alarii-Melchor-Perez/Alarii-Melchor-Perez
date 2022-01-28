@@ -1,7 +1,39 @@
-![kawai-budding-pop](https://user-images.githubusercontent.com/89678095/151461123-cebf7360-b8b3-46d8-b4bd-c1a6418d107d.gif)
+
 ### Hi there 👋
-![Programacion-codigo-768x432](https://user-images.githubusercontent.com/89678095/151457415-85617030-c7b0-4785-8014-f3900cf1826a.jpg)
+![programación](https://user-images.githubusercontent.com/89678095/151461424-55c139ab-48b5-4acb-afc3-3b82d6d6816d.jpg)
 
 Acerca de mi 😎
 
-Mi nombres es Alarii, tengo 21 años, actualmente estoy estudiando la licenciatura en computacion,
+Mi nombre es Alarii, tengo 21 años, actualmente estoy estudiando la licenciatura en computación. Me apasiona la informática, ofimática, programación y las redes. Me gusta trabajar en equipo, ya que, así puedo aprender muchas mas cosas para poder extender mis conocimientos.
+
+🔭Actualmente estoy trabajando en...
+En estos momentos me encuentro desarrollando con mis compañeros de escuela un sistema de inventario.
+
+🌱Actualmente estoy aprendiendo...
+
+•	Git
+•	GitHub
+•	Node.js
+•	Typescript
+•	Javascript
+
+🎯 Algunas tecnologías que uso:
+
+•	Git
+•	GitHub
+•	Node.js
+•	Typescript
+•	Javascript
+•	Php
+•	Android Studio
+
+Habilidades
+
+•	Pensamiento creativo
+•	Pensamiento crítico
+•	Flexibilidad y adaptación
+•	Capacidad de trabajar en equipo
+•	Razonamiento
+•	Comunicación
+
+
